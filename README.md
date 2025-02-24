@@ -17,9 +17,9 @@
 	
 - What is the business probem that your project is trying to solve? <br>
 	They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to 
-  	understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
-  		a. Which variables are significant in predicting the demand for shared bikes.
-  		b. How well those variables describe the bike demands
+  	understand the factors affecting the demand for these shared bikes in the American market. <br> The company wants to know:<br><br>
+  		a. Which variables are significant in predicting the demand for shared bikes.<br>
+  		b. How well those variables describe the bike demands<br>
 	
 - What is the dataset that is being used?<br>
 	 The day.csv dataset and the readme.txt files are used as the datasets.
