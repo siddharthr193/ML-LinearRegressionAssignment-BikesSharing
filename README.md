@@ -10,29 +10,25 @@
 
 ## General Information
 - Provide general information about your project here. <br>
-	A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding 
-  it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its 
-  revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
+	A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is 	finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to 		accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
 	
-- What is the background of your project?
-	BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid- 
-  19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service 
-  providers and make huge profits.
+- What is the background of your project? <br>
+	BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to 	Covid- 19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from 	other service providers and make huge profits.
 	
-- What is the business probem that your project is trying to solve?
+- What is the business probem that your project is trying to solve? <br>
 	They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to 
-  understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
-  a. Which variables are significant in predicting the demand for shared bikes.
-  b. How well those variables describe the bike demands
+  	understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
+  		a. Which variables are significant in predicting the demand for shared bikes.
+  		b. How well those variables describe the bike demands
 	
-- What is the dataset that is being used?
+- What is the dataset that is being used?<br>
 	 The day.csv dataset and the readme.txt files are used as the datasets.
 
 
 ## Conclusions
 
-The R-squared value for both test and training datasets is withing **10 %** of each other. 
-The R-squared of the Test data set is  **0.805** and the The R-squared of the Training data set is **0.841**. The difference is **4%**.
+The R-squared value for both test and training datasets is withing **10 %** of each other. <br>
+The R-squared of the Test data set is  **0.805** and the The R-squared of the Training data set is **0.841**. The difference is **4%**.<br>
 
 
 For the test and training dataset the difference between the R-squared and R-squared adjusted is within **1 - 5%**. 
