@@ -66,3 +66,27 @@ We can derive the equation as
 The demand for bikes = 0.165 + (2.346 x Year) + (0.054 x Working Day) + (0.472 x Temperature ) - (0.157 x Wind Speed) 
                        - (0.289 x Light Rain/Snow) - (0.080 x Mist + Cloud) - (0.039 x January) - (0.046 x July) + (0.073 x September) 
                        + (0.066 x Saturday) - (0.060 x Spring) + (0.044 x Summer) + (0.077 x Winter)
+
+
+
+## Technologies Used
+- pandas version 1.5.3
+- numpy version 1.24.3
+- matplotlib version 3.7.1
+- seaborn version 0.12.2
+- python version 3.11.4
+- sklearn version 1.3.0
+- statsmodels version 0.14.0
+
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by the EDA module, Data Visualization module and the Linear Regression module tutorials and the  of the Upgrad AI and ML program.
+
+- This project was based on Linear Regression module of the Upgrad AI and ML program.
+
+
+## Contact
+Created by @siddharthr193 - feel free to contact me!
